@@ -1,3 +1,4 @@
+// Enviem dades per LORA
 //Libraries for LoRa
 #include <SPI.h>
 #include <LoRa.h>
